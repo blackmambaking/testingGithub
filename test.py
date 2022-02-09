@@ -2,3 +2,4 @@
 # we will build a prgram which tells the squares of the input numbers
 n = int(input("Enter a number"))
 print(n*n)
+#hello
